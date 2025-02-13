@@ -1,0 +1,23 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background with Dark Mode Gradient -->
+  <rect width="256" height="256" rx="30" fill="url(#gradient-bg)"/>
+
+  <!-- Video Section (Red Background) -->
+  <rect x="20" y="40" width="110" height="140" rx="15" fill="#FF0000"/>
+  <polygon points="50,70 100,100 50,130" fill="white"/>
+
+  <!-- Notepad Section (White Background) -->
+  <rect x="140" y="40" width="96" height="140" rx="15" fill="white"/>
+  <line x1="150" y1="60" x2="220" y2="60" stroke="black" stroke-width="3"/>
+  <line x1="150" y1="80" x2="220" y2="80" stroke="black" stroke-width="3"/>
+  <line x1="150" y1="100" x2="200" y2="100" stroke="black" stroke-width="3"/>
+  <line x1="150" y1="120" x2="190" y2="120" stroke="black" stroke-width="3"/>
+
+  <!-- Gradient Background -->
+  <defs>
+    <linearGradient id="gradient-bg" x1="0" y1="0" x2="256" y2="256" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D0D0D"/>
+      <stop offset="1" stop-color="#1B1F3B"/>
+    </linearGradient>
+  </defs>
+</svg>
