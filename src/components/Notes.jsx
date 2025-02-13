@@ -4,7 +4,7 @@ import { useState } from "react";
 import { RiDeleteBin6Line } from "react-icons/ri";
 import { useLocation } from "react-router-dom";
 import { useSelector, useDispatch } from "react-redux";
-import { addNote, deleteNote } from "../RTK/feature/notebookSlice";
+import { addNote, deleteNote } from "../RTK/feature/noteBookSlice.js";
 
 function Notes() {
   // useState
