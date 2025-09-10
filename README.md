@@ -12,7 +12,7 @@
 
 ### 🖼️ Demo
 
-🔗 Live Demo: [Add your live demo link here]
+🔗 Live Demo: https://notetube-tk14.vercel.app/
 
 ### 📸 Screenshots
 
